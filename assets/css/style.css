@@ -1,0 +1,21 @@
+body {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+.text-primary {
+  font-size: 45px; 
+  font-weight: bold;
+  color: white; 
+  background-color: #3498db;
+  text-align: center; 
+  padding: 15px; 
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
