@@ -2,7 +2,8 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ## Description
+  ## D![weather forecast](https://github.com/JonBay/weather-outlook/assets/134355923/6c690f9b-fad1-43c1-8a4f-4fcd84d85a70)
+escription
   This project uses the open wether api to get the coordinates of a selected city and request the current weather as well as a 5 day forecast.  
 
   ## Table of Contents 
