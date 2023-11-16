@@ -17,7 +17,7 @@
   - [Questions](#questions)
 
   ## Installation
-  Clone the repository and then open the index.html file in a browser.  You can also view the page here:  
+  Clone the repository and then open the index.html file in a browser.  You can also view the page here:  https://jonbay.github.io/weather-outlook/
 
   ## Usage
   Search for the weather and forecast of your selected city. 
