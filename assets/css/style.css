@@ -1,3 +1,7 @@
+.bg-primary {
+  background-color: #ffa500; 
+}
+
 body {
   font-family: 'Fira Sans', sans-serif;
 }
@@ -18,4 +22,29 @@ h4,
 h5,
 h6 {
   font-weight: 700;
+}
+
+.city-search {
+  margin-bottom: 10px;
+}
+
+.current-weather {
+  border: 2px solid #ddd;
+  padding: 10px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+.forecast-item {
+  border: 2px solid #ddd;
+  padding: 10px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+.forecast-container {
+  display: flex;
+  justify-content: space-between;
 }
